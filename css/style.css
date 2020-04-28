@@ -635,7 +635,7 @@ footer span:hover {
 }
 
 .darkmode--activated .events .card .card-text {
-  color: white;
+  color: red;
   font-size: 14px;
 }
 
