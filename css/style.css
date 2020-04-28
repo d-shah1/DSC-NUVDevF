@@ -636,7 +636,7 @@ footer span:hover {
 
 .events .card .card-text {
   isolation: isolate;
-  color: white;
+  color: black;
   font-size: 14px;
 }
 
