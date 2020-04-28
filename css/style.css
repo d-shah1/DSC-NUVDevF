@@ -646,6 +646,7 @@ footer span:hover {
 }
 
 .events .card .event-info i {
+  isolation: isolate;
   margin-right: 5px;
 }
 .events .card .event-info {
