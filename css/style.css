@@ -634,8 +634,21 @@ footer span:hover {
   border-radius: 10px;
 }
 
-.darkmode--activated .events .card .card-text {
-  color: white;
+
+.events .card {
+  position: relative;
+  isolation: isolate;
+  border: none;
+}
+.events .card .card-text {
+  isolation: isolate;
   font-size: 14px;
 }
 
+.events .card .event-info i {
+  margin-right: 5px;
+}
+.events .card .event-info {
+  color: var(--color-red);
+  font-size: 14px;
+}
