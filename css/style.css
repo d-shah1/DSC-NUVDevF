@@ -633,8 +633,3 @@ footer span:hover {
   transform: rotate(-10deg);
   border-radius: 10px;
 }
-
-.darkmode--activated .events .card .card-text {
-  isolation: isolate;
-  font-size: 14px;
-}
