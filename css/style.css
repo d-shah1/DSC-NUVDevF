@@ -240,6 +240,7 @@ section {
   border: none;
 }
 .events .card .card-text {
+  color: black;
   font-size: 14px;
 }
 
@@ -634,23 +635,4 @@ footer span:hover {
   border-radius: 10px;
 }
 
-.events .card {
-  position: relative;
-  isolation: isolate
-  border: none;
-}
-.events .card .card-text {
-  isolation: isolate;
-  font-size: 14px;
-}
-
-.events .card .event-info i {
-  isolation: isolate;
-  margin-right: 5px;
-}
-.events .card .event-info {
-  isolation: isolate;
-  color: var(--color-red);
-  font-size: 14px;
-}
 
