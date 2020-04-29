@@ -635,6 +635,6 @@ footer span:hover {
 }
 
 .events .card .card-text{
-  isolation: isolate;
+  color: black;
 }
 
