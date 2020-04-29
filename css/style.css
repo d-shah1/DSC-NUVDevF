@@ -638,6 +638,3 @@ footer span:hover {
   isolation: isolate;
 }
 
-.darkmode-toggle {
-  z-index: 500;
-}
