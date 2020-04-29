@@ -636,6 +636,6 @@ footer span:hover {
 
 .darkmode--activated .events .card .card-description {
   isolation: isolate;
-  color: black;
+  color: white;
   font-size: 14px;
 }
