@@ -634,7 +634,6 @@ footer span:hover {
   border-radius: 10px;
 }
 
-.events .card-description {
+.events .card .card-text {
   isolation: isolate;
 }
-
