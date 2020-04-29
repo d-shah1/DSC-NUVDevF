@@ -639,6 +639,6 @@ footer span:hover {
   font-size: 14px;
 }
 
-.events .card .card-text .card-description {
+.events .card .card-description {
   isolation: isolate;
 }
