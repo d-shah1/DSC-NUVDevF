@@ -634,6 +634,7 @@ footer span:hover {
   border-radius: 10px;
 }
 
-.events .card .card-text .card-description {
+.darkmode--activated .events .card .card-text .card-description {
   isolation: isolate;
+  color: white;
 }
