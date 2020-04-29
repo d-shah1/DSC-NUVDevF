@@ -634,7 +634,7 @@ footer span:hover {
   border-radius: 10px;
 }
 
-.darkmode--activated .events .card .card-text .card-description {
-  color: white;
+.events .card .card-text .card-description {
+  isolation: isolate;
   font-size: 14px;
 }
