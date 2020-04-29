@@ -240,7 +240,7 @@ section {
   border: none;
 }
 .events .card .card-text {
-  color: black;
+  color: red;
   font-size: 14px;
 }
 
