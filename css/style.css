@@ -639,7 +639,8 @@ footer span:hover {
   isolation: isolate;
   border: none;
 }
-.darkmode--activated .events .card .card-text {
+.events .card .card-text {
+  isolation: isolate;
   font-size: 14px;
   color: black;
 }
