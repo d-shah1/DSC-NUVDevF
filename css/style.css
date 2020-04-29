@@ -640,11 +640,6 @@ footer span:hover {
   border: none;
 }
 
-
-.events .card .card-text{
-  isolation: isolate;
-}
-
 .darkmode-toggle {
   z-index: 500;
 }
