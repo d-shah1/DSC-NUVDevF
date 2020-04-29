@@ -592,6 +592,11 @@ footer span:hover {
   z-index: -1;
 }
 
+.darkmode--activated .events .card .card-text {
+  color: white;
+  font-size: 14px;
+}
+
 .about .image {
   position: relative;
   isolation: isolate;
@@ -634,7 +639,3 @@ footer span:hover {
   border-radius: 10px;
 }
 
-.darkmode--activated .events .card .card-text {
-  color: white;
-  font-size: 14px;
-}
